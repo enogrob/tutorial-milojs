@@ -1,0 +1,21 @@
+<html>
+<head>
+    <title>Binding example</title>
+    <script src="milo.bundle.js"></script>
+    <script src="index.js"></script>
+</head>
+<body>
+    <input type="text" ml-bind="[Data]:myField">
+    <div ml-bind="[Data]:myCurrentValue"></div>
+    <button ml-bind="[Events]:myTestButton">
+    	Test
+    </button>
+    <div>
+    	<span ml-bind=":myTestValue"></span>
+    </div>
+    <div>
+      <h2>I am connected:</h2>
+      <span ml-bind="[Data]:myTestValue2"></span>
+    </div>
+</body>
+</html>

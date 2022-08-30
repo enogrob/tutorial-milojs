@@ -16,10 +16,10 @@ Learn everything you need to about the subject of this `Tutorial` project.
 ## Topics
 ```
 Quick start
-[ ] Install
-[ ] Test
-[ ] Try
-[ ] Note on runtime parameter type checking
+[x] Install
+[x] Test
+[x] Try
+[x] Note on runtime parameter type checking
 Samples/Tutorials
 Getting started
 [ ] Introduction to binding
@@ -33,8 +33,8 @@ TodoMVC
 [ ] The more advanced sample is Todos app in todomvc folder.
 Contribute
 Concepts
-[ ] Modular design
-[ ] Component
+[x] Modular design
+[x] Component
 [ ] Component facet
 [ ] DOM binding and creation of component instances
 [ ] Messenger

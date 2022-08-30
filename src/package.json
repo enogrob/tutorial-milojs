@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "grunt": "^1.5.3",
+    "milojs": "^1.6.1"
+  }
+}
